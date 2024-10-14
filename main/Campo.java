@@ -14,6 +14,7 @@ public class Campo {
         jugadores.add(jugador);
     }
 
+    //Conecto jugadores con sus adyacentes y agrego a la matriz de adyacencia
     public void conectarJugadores(Jugador jugador1, Jugador jugador2) {
 
         if (this.matrizAdyacencia == null) {
@@ -28,6 +29,7 @@ public class Campo {
 
     }
 
+    //Imprimo la lista de jugadores y la matriz de adyacencia
     public void imprimir(){
     
         // Imprimir jugadores

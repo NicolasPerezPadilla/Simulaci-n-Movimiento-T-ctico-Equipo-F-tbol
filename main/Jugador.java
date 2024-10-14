@@ -36,13 +36,13 @@ public class Jugador {
         return posesion;
     }
 
+    public int obtenerId(){
+        return id;
+    }
+
     //Añado jugadores adyacentes al jugador
     public void añadirJugadorAdyacente(Jugador jugador){
         jugadoresAdyacentes.add(jugador);
-    }
-
-    public int obtenerId(){
-        return id;
     }
 
 }
