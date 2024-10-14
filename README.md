@@ -1,1 +1,1 @@
-# Simulaci-n-Movimiento-T-ctico-Equipo-F-tbol
+# Simulacion-Movimiento-Tactico-Equipo-Futbol
